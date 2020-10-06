@@ -6,9 +6,7 @@
 - Do NOT remove Videos, Rules, FAQs or any other helpful content.
 - Styling / code can be pretty, ugly or stupid, big or small as long as it works
 - Add your name to the contributorslist.md file
----
-Name: [Your Name]
-Github: [Your Github Profile]
-Place: [Your birth place]
----
-- Add images
+
+   - Name: [Your Name]
+   - Github: [Your Github Profile]
+   - Place: [Your birth place]
