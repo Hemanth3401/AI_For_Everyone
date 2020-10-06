@@ -1,0 +1,27 @@
+{
+  "name": "ai_for_everyone",
+  "version": "1.0.0",
+  "description": "Upload Your AI programs here and lets make a Collection of Different AI programs.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemanth987/AI_For_Everyone.git"
+  },
+  "keywords": [
+    "AI",
+    "Everyone"
+  ],
+  "author": "Sudini Hemanth REddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hemanth987/AI_For_Everyone/issues"
+  },
+  "homepage": "https://github.com/Hemanth987/AI_For_Everyone#readme"
+}
