@@ -12,8 +12,8 @@
 
 1. Fork this repository.
 2. Clone your forked repository to your local machine.
-3. Add your name in Contributors.md file.
-4. Write these command on your terminal-
+3. Add your AI program in AI Programs file.
+4. Write these command on your terminal to pushing in you repo-
 
 ```bash
 git add -A
