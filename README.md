@@ -16,9 +16,11 @@
 4. Write these command on your terminal to pushing in you repo-
 
 ```bash
-git add -A
-git commit -m "your name"
-git push origin master
+$ git checkout -b [name_of_your_new_branch]
+$ git push origin [name_of_your_new_branch]
+$ git add -A
+$ git commit -m "your name"
+$ git push origin 
 ```
 
 5. Then create your pull request.
